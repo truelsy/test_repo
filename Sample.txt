@@ -5,3 +5,4 @@ pull 원격 저장소의 내용을 가져오기
 BugFix
 BugFix2
 Features
+Features2
