@@ -8,3 +8,4 @@ Features
 Features2
 Rebase
 Rebase2
+Squash1
