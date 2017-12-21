@@ -10,3 +10,4 @@ Rebase
 Rebase2
 Squash1
 Squash2
+Squash3
