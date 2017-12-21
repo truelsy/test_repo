@@ -14,3 +14,4 @@ Squash3
 SSquash111
 SSquash222
 SSquash333
+Commit: 인덱스 상태를 기록하기
