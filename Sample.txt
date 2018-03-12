@@ -1,4 +1,22 @@
-원숭이도 이해할 수 있는 Git 명령어
-add 변경사항을 인덱스에 등록하기
-commit 인덱스의 상태를 기록하기
-pull 원격 저장소의 내용을 가져오기
+원숭이도 이해할 수 있는 Git 명령어11111
+add 변경사항을 인덱스에 등록하기44444
+commit 인덱스의 상태를 기록하기22222
+pull 원격 저장소의 내용을 가져오기33333
+BugFix1111111111111111111
+BugFix2222222222222222222
+Features
+Features2
+Rebase
+Rebase2
+Squash1
+Squash2
+Squash3
+SSquash111
+SSquash222
+SSquash333 AAAAAAAAAAAAAAAAAAAAAAAAAAA
+Commit: 인덱스 상태를 기록하기
+pull: 원격 저장소의 내용을 가져오기
+Fetch_Test2222
+Cherry-Pick
+Cherry-Pick2222
+Cherry-Pick3333
